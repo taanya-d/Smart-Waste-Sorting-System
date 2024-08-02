@@ -1,0 +1,42 @@
+# Components for Smart Waste Sorting System
+
+## Hardware
+
+1. *Arduino Uno*
+   - Operating Voltage: 5V
+   - Input Voltage: 7-12V
+   - Digital I/O Pins: 14
+   - Analog Input Pins: 6
+   - Clock Speed: 16 MHz
+
+2. *Moisture Sensor*
+   - Operating Voltage: 3.3V to 5V DC
+   - Output Digital: 0V to 5V
+   - Output Analog: 0V to 5V
+
+3. *Ultrasonic Sensor*
+   - Measures distance using ultrasonic sound waves
+   - High-frequency sound waves reflect to produce echo patterns
+
+4. *MQ 3 Sensor*
+   - Used for gas detection
+
+5. *IR Sensor*
+   - Used for object detection
+
+6. *DC Motor*
+   - Converts electrical energy into mechanical energy
+
+7. *Servo Motor*
+   - Used for precise control of angular position
+
+8. *Conveyor Belt*
+   - Used for moving waste items to different bins
+
+9. *IoT Module
+   - Used for data communication and monitoring
+
+## Software
+
+1. *Arduino IDE*
+   - Used for writing and uploading code to the Arduino board
